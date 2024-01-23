@@ -1,1 +1,1 @@
-# SDNN
+# Deep Neural Networks
